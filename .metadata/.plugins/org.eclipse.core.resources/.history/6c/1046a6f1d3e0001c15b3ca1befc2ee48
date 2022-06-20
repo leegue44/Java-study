@@ -1,0 +1,10 @@
+package Interval_sum;
+
+public class arraysum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
