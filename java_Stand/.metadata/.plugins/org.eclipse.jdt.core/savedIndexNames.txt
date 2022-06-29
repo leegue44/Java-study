@@ -2,5 +2,4 @@ INDEX VERSION 1.131+C:\Java_Pratice\java_Stand\.metadata\.plugins\org.eclipse.jd
 4072351591.index
 259311238.index
 1865797976.index
-1764606982.index
 1069276933.index
